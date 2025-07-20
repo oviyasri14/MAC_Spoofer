@@ -16,5 +16,5 @@ A simple and clean Bash script to spoof MAC addresses on Linux.
 ## 🚀 Usage
 
 ```bash
-chmod +x mac_spoofer.sh
-sudo ./mac_spoofer.sh
+chmod +x MAC_Spoofer.sh
+sudo ./MAC_Spoofer.sh
